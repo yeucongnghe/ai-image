@@ -1,5 +1,0 @@
-{
-  "name": "App tạo video hàng loạt",
-  "description": "Công cụ tạo video hàng loạt mạnh mẽ sử dụng mô hình Google Gemini Veo 2. Tạo tối đa 50 video cùng lúc từ văn bản hoặc hình ảnh.",
-  "requestFramePermissions": []
-}
