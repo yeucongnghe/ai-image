@@ -1,5 +1,0 @@
-{
-  "name": "Tạo video AI hàng loạt",
-  "description": "Ứng dụng tạo video AI hàng loạt sử dụng mô hình Veo, hỗ trợ quản lý hàng đợi và xử lý song song.",
-  "requestFramePermissions": []
-}
